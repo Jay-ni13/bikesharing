@@ -26,7 +26,7 @@ The following story is designed to answer these questions:
 
 <img src="https://github.com/Jay-ni13/bikesharing/blob/main/images/top_start_and_end_locations.png" width=75%>
 
-3. The most frequently utilized start and end locations are in Manhatten, where both tourists and workday commuters are concentrated.
+3. The most frequently utilized start and end locations are in Manhattan, where both tourists and workday commuters are concentrated.
 
 <img src="https://github.com/Jay-ni13/bikesharing/blob/main/images/bike_trips_and_times_by_gender.png" width=75%>
 
@@ -38,7 +38,9 @@ The following story is designed to answer these questions:
 - BikeIds 39570 and 17551 are overdue for maintainence.
 
 ## Summary
-The prevalence of annual subscribers over short-term customers indicates that the locations for bike stations should be based on regular access for commuters in/around Des Moines' business centers--frequent tourist destinations and college campuses will also influence station location. Once these stations are created, usage during peak times will determine the number of bikes that should be available at each station, and maintainence will be regularly performed during non-peak hours. After beta testing the inital locations, subscribers will be able to offer input on the creation of additional stations and ammenities.
+The prevalence of annual subscribers over short-term customers indicates that the locations for bike stations should be based on regular access for commuters in/around Des Moines' business centers--frequent tourist destinations and college campuses will also influence station location. 
+
+Once these stations are created, usage during peak times will determine the number of bikes that should be available at each station, and maintainence will be regularly performed during non-peak hours. After beta testing the inital locations, subscribers will be able to offer input on the creation of additional stations and ammenities.
 
 ### Recommendations
 Two additional visualizations that would assist the beta testing phase would be 1) the relationship of high-traffic locations to trip duration, and 2) the relationship of high-traffic locations to the gender breakdown of active riders.
