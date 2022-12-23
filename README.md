@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 ## Project Overview
-Analysis of Citi Bike's public NYC information to discover applicable data and key costs for the creation of a bike-share program in Des Moines, Iowa; the proof of concept is to help potential seed investors determine whether they should invest in the program. 
+Analysis of Citi Bike's public NYC information to discover applicable data and key costs for the creation of a bike-share proof of concept in Des Moines, Iowa. 
 
 ## Resources
 - Data Source: [Citi Bike Trip Histories](https://s3.amazonaws.com/tripdata/index.html); file: 201908-citibike-tripdata.csv.zip
